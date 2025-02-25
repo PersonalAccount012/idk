@@ -172,8 +172,6 @@ local Button = MainTab:CreateButton({
 local Button = MainTab:CreateButton({
    Name = "Sex Script #2",
    Callback = function()
-      local HttpService = game:GetService("HttpService")
-      local scriptContent = HttpService:GetAsync("https://raw.githubusercontent.com/shutupjamestheloser/freakyv94/refs/heads/main/freakyv94yes")
-      loadstring(scriptContent)()
+      loadstring(game:httpget("https://raw.githubusercontent.com/ShutUpJamesTheLoser/freakyv94/refs/heads/main/freakyv94yes",true))()
    end,
 })
