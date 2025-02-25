@@ -163,9 +163,9 @@ local Button = MainTab:CreateButton({
 
 
 local Button = MainTab:CreateButton({
-   Name = "Jerk Off",
+   Name = "Sex Animation Gui",
    Callback = function()
-      loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/ShutUpJamesTheLoser/freaky/refs/heads/main/fe",true))()
    end,
 })
 
