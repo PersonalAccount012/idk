@@ -152,3 +152,26 @@ local Button = MainTab:CreateButton({
       loadstring(game:HttpGet("https://raw.githubusercontent.com/cnPthPiGon/RamDRuomFirirueieiid8didj/refs/heads/main/Fe%20sus%20hub"))()
    end,
 })
+
+
+local Button = MainTab:CreateButton({
+   Name = "Jerk Off",
+   Callback = function()
+      loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
+   end,
+})
+
+
+local Button = MainTab:CreateButton({
+   Name = "Jerk Off",
+   Callback = function()
+      loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
+   end,
+})
+
+local Button = MainTab:CreateButton({
+   Name = "Sex Script #2",
+   Callback = function()
+      loadstring(game:httpget("https://raw.githubusercontent.com/shutupjamestheloser/freakyv94/refs/heads/main/freakyv94yes",true))()
+   end,
+})
