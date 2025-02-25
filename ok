@@ -172,6 +172,6 @@ local Button = MainTab:CreateButton({
 local Button = MainTab:CreateButton({
    Name = "Sex Script #2",
    Callback = function()
-      loadstring(game:httpget("https://raw.githubusercontent.com/ShutUpJamesTheLoser/freakyv94/refs/heads/main/freakyv94yes",true))()
+      loadstring(game:Httpget("https://raw.githubusercontent.com/ShutUpJamesTheLoser/freakyv94/refs/heads/main/freakyv94yes",true))()
    end,
 })
